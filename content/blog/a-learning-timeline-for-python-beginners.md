@@ -10,12 +10,15 @@ date: 2019-12-20T18:30:00.000Z
 update: ''
 author: soulsam480
 authorlink: 'https://github.com/soulsam480'
+thumbnail: /images/uploads/1_mwfqygyvyqbzkkbphs5j_g.jpeg
 ---
 <!--StartFragment-->
 
 Python has been making headlines since it's advent. It's everywhere nowadays. The simplicity to write complex code and the parallel learning curve has made it the most sought after programming language. Its application can be extended to various domains such as Web development, Machine learning, Artificial intelligence and much more.
 
 Python is extremely easy to learn and for people new to programming it's a piece of cake. The demand for good python programmers is getting skyrocketed. This is the high time to learn python and achieve expertise.
+
+![Python Benifits](/images/uploads/ol2223xwm.png "Python Benifits")
 
 After mastering the basic concepts you can choose any of the domains of python programming which are Machine Learning, Artificial Intelligence, and Data Science. These are the most popular domains but the application of python is extended to many fields.
 

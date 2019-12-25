@@ -40,6 +40,7 @@ Programming on a smartphone is troublesome but it's still intuitive. There are m
 * **How to practice :** Open Sololearn and move to code section. Click on the plus icon and select python. For doing basic programming this is the best portable platform. After putting all of your code, hit run.
 * Get over all the assignments and return back to sololearn. Then continue with the course. As you have a strong command on basics, moving will not be that much hard.
 * After you pass through functions, try to build something using all the knowledge you have gathered so far. eg. a calculator, a guess game etc.
-* Link to an awesome video on youtube by freecodecamp : **[Learn Python by Building Five Games - Full Course freeCodeCamp.org ](<Learn Python by Building Five Games - Full Course freeCodeCamp.org>)**
-
-<https://www.youtube.com/watch?v=rfscVS0vtbw>
+* Link to an awesome video on youtube by freecodecamp : **[Learn Python by Building Five Games - Full Course freeCodeCamp.org ](<Learn Python by Building Five Games - Full Course freeCodeCamp.org>)** . Here is a recommendation to some ideas to build something using the knowledge you have gained so far.
+* Another video form freecodecamp on youtube : **[Learn python in 4hrs](<https://www.youtube.com/watch?v=rfscVS0vtbw>).**  for speed learners. Not exactly in 4hrs. but you can complete it in a week if you are determined.
+* After completing all the basics and assignments you can move forward to focus on a specific domain on programming with python. You can take on machine learning, AI, Automation, Data Science, Deep Learning Algorithms and etc.
+* Best of LUCK!!

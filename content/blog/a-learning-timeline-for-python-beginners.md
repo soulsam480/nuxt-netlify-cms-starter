@@ -27,6 +27,19 @@ I'm also a beginner of python. I have started learning python just a while ago. 
 * with a legit setup (Laptop etc.)
 * learning with Smartphones.
 
-Guys with Smartphones (we are on the same boat ☺️☺️).
+#### **Guys with Smartphones (we are on the same boat ☺️☺️).**
+
+Programming on a smartphone is troublesome but it's still intuitive. There are many android apps which offer very functional features to practice coding. If we can tailor a timeline for learning and practicing code on smartphones, the whole learning process will be a piece of cake. For every beginner the only factor which plays a big role is CONSISTENCY. If you are not consistent, you won't go anywhere with programming. There will be times when using a smartphone for coding will demotivate you but if you march on ahead with interest, you could gain a lot of knowledge.
+
+##### **The timeline**
+
+* When we try to learn a new language, it's always better to learn the basics and practice thoroughly to get a good command over the basics. Basics will become the foundation to more complex and advanced programming in future.
+* Android users download **[Sololearn ](https://play.google.com/store/apps/details?id=com.sololearn).** Open the app and register using your email id. Move forward to the learn section and from programming languages select Python.
+* I prefer sololearn for basics because it focuses on simplicity rather than complex teaching methods. After each lesson there is a little assignment/question for quick practice for the lesson.
+* After completing all the basic concepts from Sololearn, head over to **[Practice Python](https://www.practicepython.org/)**  and start doing the beginner assignments. The platform also provides solutions for every assignments so it's easy to perform all the assignments.
+* **How to practice :** Open Sololearn and move to code section. Click on the plus icon and select python. For doing basic programming this is the best portable platform. After putting all of your code, hit run.
+* Get over all the assignments and return back to sololearn. Then continue with the course. As you have a strong command on basics, moving will not be that much hard.
+* After you pass through functions, try to build something using all the knowledge you have gathered so far. eg. a calculator, a guess game etc.
+* Link to an awesome video on youtube by freecodecamp : **[Learn Python by Building Five Games - Full Course freeCodeCamp.org ](<Learn Python by Building Five Games - Full Course freeCodeCamp.org>)**
 
 <https://www.youtube.com/watch?v=rfscVS0vtbw>

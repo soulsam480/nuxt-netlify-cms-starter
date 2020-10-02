@@ -1,0 +1,41 @@
+{
+  "name": "Sambit Blog",
+  "short_name": "Pirate Blog",
+  "description": "Sambit Sahoo portfolio PWA",
+  "icons": [
+    {
+      "src": "/_nuxt/icons/icon_150x150.ae673c.png",
+      "sizes": "150x150",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_192x192.ae673c.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_512x512.ae673c.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4fd6b7",
+  "theme_color": "#03fcc2",
+  "lang": "en-US",
+  "version": "1.0",
+  "scope": ".",
+  "orientation": "portrait-primary",
+  "dir": "ltr",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/.../app_name",
+      "id": "com.example.app"
+    }
+  ]
+}
